@@ -1,12 +1,19 @@
 # 김동현 Backend Engineer
 
-Phone  |  010-6271-7762
+<table>
+  <tr>
+    <td>
+      <b>Phone</b>: 010-6271-7762<br>
+      <b>Email</b>: <a href="mailto:kim138762@gmail.com">kim138762@gmail.com</a><br>
+      <b>Github</b>: <a href="https://github.com/ehdgusdl">https://github.com/ehdgusdl</a><br>
+      <b>Blog</b>: <a href="https://velog.io/@kim138762/posts">https://velog.io/@kim138762/posts</a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4a9b7743-5482-4215-bcc4-b286522b34fb" width="120">
+    </td>
+  </tr>
+</table>
 
-Email    | kim138762@gmail.com
-
-Github | [Link](https://github.com/ehdgusdl)
-
-Blog | [Link](https://velog.io/@kim138762/posts)
 
 ### Summary
 
